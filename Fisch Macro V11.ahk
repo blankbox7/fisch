@@ -1,5 +1,5 @@
 ﻿#SingleInstance Force
-setkeydelay, -1
+setkeydelay, -2
 setmousedelay, -1
 setbatchlines, -1
 SetTitleMatchMode 2
